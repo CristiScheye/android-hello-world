@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="enter_name">What\'s your name?</string>
+    <string name="btn_enter_name">Use my name</string>
+    <string name="btn_gen_name">Give me a name</string>
+    <string name="enter_name_hint">e.g. Clark Kent</string>
+</resources>
